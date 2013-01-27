@@ -1,3 +1,3 @@
-Hello git world (n00b) test3
+Hello git world (n00b) testz
 
 Concurrent edit test3
